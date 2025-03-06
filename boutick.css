@@ -1,0 +1,80 @@
+
+.lanav {
+    font-size: 20px;
+
+}
+
+.linkdoc {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fasta {
+    border : 1px solid lightgray;
+    text-align : center;
+}
+
+.fasty {
+    display: flex;
+    justify-content: center;
+}
+
+#kinds, #timerdate, #places, #byprice, #disponibilite, #kindticks
+ {
+    padding: 10px;
+    border: 1px solid rgb(234, 234, 234);
+    width: 200px;
+    font-family: 'Inter',sans-serif;
+    color: #555;
+ }
+
+#kinds:focus, 
+#timerdate:focus, 
+#places:focus, 
+#byprice:focus, 
+#disponibilite:focus, 
+#kindticks:focus {
+    border: 1px solid #bb4719;
+    outline: none;
+}
+
+
+ .finder {
+    padding: 10px;
+    background-color: #bb4719;
+    color: whitesmoke;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+ }
+
+ .finder:hover {
+    background-color: #91310c;
+}
+.timetoday {
+    color: #777;
+    font-size : 14px;
+    padding: 15px;
+    text-align : center;
+}
+
+.resuls {
+    color: #666;
+    font-size: 14px;
+}
+
+.found {
+    color: #555;
+    font-weight: 510;
+    font-size: 15px;
+}
+
+.cherching {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#se {
+    padding: 5px;
+    border: 1px solid lightgray;
+}

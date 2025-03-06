@@ -1,0 +1,146 @@
+
+.details {
+    color: whitesmoke;
+}
+
+.more {
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+.deticks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.detimg {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.detinfo {
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    width: 400px;
+}
+
+.artist {
+    border-bottom: 1px solid rgb(214, 214, 214);
+    width: 50%;
+    color: #777;
+    font-weight: 510;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.evendet {
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.pripass {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pri {
+    font-weight: 510;
+    font-size: 16px;
+    margin-left: 5px;
+    background-color: rgb(14, 121, 160);
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.passa {
+    padding: 5px;
+    border: 1px solid rgb(14, 121, 160);
+    width: 50px;
+    text-align: center;
+}
+
+.desod {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#tcall, #lieu {
+    color: #666;
+}
+.teli {
+
+}
+
+.hs {
+    width: 25%;
+    background-color: rgb(232, 232, 232);
+}
+
+.medias {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#fb, #tw, #insta {
+    background-color: #e3e3e3;
+    color: #444;
+    width: 17px;
+    padding: 7px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 14px;
+}
+
+.mailto {
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(179, 91, 28);
+}
+/* map */
+
+.lieuvent {
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.mapap {
+    display: flex;
+    gap: 100px;
+}
+.lepromo {
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+}
+
+.lapromo {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.contpromo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap : 50px;
+}
+
+.mailpromo {
+    text-decoration: none;
+    color : rgb(179, 91, 28);
+}
+
+#map {
+    width: 550px;
+    margin-left: 50px;
+}

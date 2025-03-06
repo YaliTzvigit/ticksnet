@@ -1,0 +1,104 @@
+
+
+.linkdoc {
+    color : whitesmoke;
+    font-size : 26px;
+}
+
+.selections {
+    border : 1px solid lightgray;
+}
+
+.tselect {
+    text-align : center;
+}
+
+.maincnt {
+    padding : 10px;
+    display : flex;
+    justify-content : space-evenly;
+}
+
+.itickct {
+    padding : 15px;
+    width : 97%;
+    display : flex;
+    gap : 100px;
+    border : 1px solid lightgray;
+}
+
+.itick {
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+}
+
+.quantick {
+    margin-top : 10px;
+    align-items : center;
+}
+
+#prixi {
+    font-weight : 550;
+    font-size : 15px;
+}
+
+.moins, .addi {
+    width : 30px;
+    text-align : center;
+    background-color : black;
+    color : white;
+}
+
+.eventips {
+    width : 78%;
+}
+
+.remove {
+    display : flex;
+    justify-content : space-between;
+    gap : 20px;
+}
+
+.bremove {
+    font-size : 22px;
+    height : 30px;
+}
+
+.tieve, .texteve {
+    color : #333;
+    font-size : 14px;
+}
+
+.texteve {
+    width : 85%;
+}
+
+.betig {
+    width : 100px;
+}
+
+.sumpay {
+    padding : 8px;
+    display : flex;
+    align-items : center;
+    justify-content : space-evenly;
+}
+
+#prixapy {
+    font-size : 20px;
+}
+
+.cash {
+    padding : 5px;
+    display : flex;
+    justify-content : flex-end;
+}
+
+.bsumpay {
+    padding : 10px;
+    background-color : transparent;
+    border : 1px solid lightgray;
+    width : 150px;
+    font-size : 16px;
+}
