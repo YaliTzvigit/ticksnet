@@ -15,18 +15,18 @@
 
     <nav class="header">
         <div class="thelogo">
-            <img src="images/revendtoutlogo.png" class="irvt" alt="thelog" />
+            <img src="images/lelogo.png" class="irvt" alt="thelog" />
         </div>
         <a href="" class="create">
             <button class="eventcreate">Créer un evenement &plus; </button>
         </a>
         <div class="gaps">
-            <a href="" class="myselect">
+            <a href="lepaniertick.html" class="myselect">
                 <i class="fa-solid fa-shopping-basket" id="icart">
                     <sup id="sup">0</sup>
                 </i>
             </a>
-            <a href="" class="formsl">
+            <a href="/form" class="formsl">
                 <i class="fa-solid fa-user-plus" id="iutili"></i>
             </a>
             <a href="javascript:void(0)" class="lang">
@@ -82,30 +82,14 @@
 
     <section class="tickstypes">
         <div class="types">
-            <button class="catick">Concert / Spectacle</button>
+            <button class="catick">Musique</button>
             <div class="dropas">
-                <a href="" class="drop">Rap Ivoire</a>
-                <a href="" class="drop">Showbizz & Coupé Décalé</a>
-                <a href="" class="drop">Afrobeat & Musiques Urbaines</a>
-                <a href="" class="drop">FEMUA</a>
+                <a href="" class="drop">Showcase</a>
+                <a href="" class="drop">Concerts</a>
+                <a href="" class="drop">Release Party</a>
             </div>
         </div>
-        <div class="types">
-            <button class="catick">Sport</button>
-            <div class="dropas">
-                <a href="" class="drop">Football</a>
-                <a href="" class="drop">Marathons & Courses</a>
-                <a href="" class="drop">Tournois de Jeux Vidéo</a>
-            </div>
-        </div>
-        <div class="types">
-            <button class="catick">Humour</button>
-            <div class="dropas">
-                <a href="" class="drop">Stand-up </a>
-                <a href="" class="drop">One Man Show </a>
-                <a href="" class="drop">Comédies musicales</a>
-            </div>
-        </div>
+        
         <div class="types">
             <button class="catick">Panel</button>
             <div class="dropas">
@@ -114,27 +98,23 @@
             </div>
         </div>
         <div class="types">
-            <button class="catick">Soirées privées/publiques</button>
+            <button class="catick">Comédie</button>
             <div class="dropas">
-                <a href="" class="drop">Brunch & Dîners </a>
+                <a href="" class="drop">Stand-up </a>
+                <a href="" class="drop">One Man Show </a>
+                <a href="" class="drop">Comédies musicales</a>
+            </div>
+        </div>
+
+        <div class="types">
+            <button class="catick">Soirées</button>
+            <div class="dropas">
+                <a href="" class="drop">Paiyas </a>
                 <a href="" class="drop">Galas & soirées d'entreprises</a>
                 <a href="" class="drop">Soirées à thème (White Party ...)</a>
             </div>
         </div>
-        <div class="types">
-            <button class="catick">Foires / Expositions</button>
-            <div class="dropas">
-                <a href="" class="drop">Foires commerciales</a>
-                <a href="" class="drop">Expositions d'art</a>
-            </div>
-        </div>
-        <div class="types">
-            <button class="catick">Tourisme / Loisirs</button>
-            <div class="dropas">
-                <a href="" class="drop">Voyages organisés & Découverte culturelle</a>
-                <a href="" class="drop"> Plein Air</a>
-            </div>
-        </div>
+
     </section>
 
     <br />
@@ -297,7 +277,6 @@
                 </a>
             </div>
         </div>
-
     </footer>
     
     <!-- script -->

@@ -99,6 +99,14 @@
     padding : 10px;
     background-color : transparent;
     border : 1px solid lightgray;
+    color: #bb4719;
     width : 150px;
     font-size : 16px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.bsumpay:hover {
+    background-color : #bb4719;
+    color : white;
 }

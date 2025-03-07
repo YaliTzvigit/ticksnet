@@ -104,7 +104,7 @@
 
     <div class="ticketcontain">
         <div class="ticket">
-            <img class="gtick" src="images/concerts.jpg" alt="concr" />
+            <img class="gtick" src="images/concert.jpg" alt="concr" />
             <div class="tcontent">
                 <div class="typetick">
                     <p class="nameart">DAVID THE GOLFER</p>
@@ -119,12 +119,12 @@
                     <button class="pass">Grand Public</button>
                 </div>
             </div>
-            <a href="details.html" class="apercu"> 
+            <a href="detailstick.html" class="apercu"> 
                 <button class="add-to-cart">Aperçu &nbsp; <i class="fa-regular fa-bookmark" id="icarti3"></i></button>
             </a>
             </div>
         <div class="ticket">
-            <img class="gtick" src="images/concerts.jpg" alt="concr" />
+            <img class="gtick" src="images/concert.jpg" alt="concr" />
             <div class="tcontent">
                 <div class="typetick">
                     <p class="nameart">DAVID THE GOLFER</p>
@@ -139,7 +139,7 @@
                     <button class="pass">Grand Public</button>
                 </div>
             </div>
-            <a href="details.html" class="apercu"> 
+            <a href="detailstick.html" class="apercu"> 
                 <button class="add-to-cart">Aperçu &nbsp; <i class="fa-regular fa-bookmark" id="icarti4"></i></button>
             </a>        
         </div>

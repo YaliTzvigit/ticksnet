@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <title>tickts - Le Panier</title>
     <link rel="stylesheet" href="tickets.css" />
-    <link rel="stylesheet" href="presentick.css" />
+    <link rel="stylesheet" href="lepaniertick.css" />
 </head>
 <body>
 
@@ -23,7 +23,7 @@
     <div class="body">
         <div class="containp">
             <h1 class="timg">Home / 
-                <a href="lepanier.html" class="linkdoc"> Mon panier</a>
+                <a href="lepaniertick.html" class="linkdoc"> Mon panier</a>
              </h1>
         </div>
     </div>
@@ -77,7 +77,7 @@
         <p id="prixapy">10, 000 FCFA</p>
     </div>
     <div class="cash">
-    <a href="" class="finalbpay"><button class="bsumpay">
+    <a href="transac.html" class="finalbpay"><button class="bsumpay">
         Payer maintenant
     </button> </a>
     </div>

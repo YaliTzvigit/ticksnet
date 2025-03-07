@@ -24,10 +24,44 @@ html {
     padding: 8px;
     border: 1px solid lightgray;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.takes {
+    display: flex;
+    gap: 20px;
+    width: calc(50% - 10px); 
+    position: relative;
 }
 
 .data {
     padding: 10px;
+}
+
+.takinfo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.genretick {
+    padding: 7px;
+    border: 1px solid maroon;
+    text-align: center;
+    width: 80px;
+}
+
+.pxtick {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.takimg {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 
 /* formulaire */

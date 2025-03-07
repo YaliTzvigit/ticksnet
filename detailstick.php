@@ -22,7 +22,7 @@
     <div class="body">
         <div class="containp">
             <h1 class="timg">Home /
-                <a href="details.html" class="details">Details</a>
+                <a href="detailstick.html" class="details">Details</a>
             </h1>
         </div>
     </div>

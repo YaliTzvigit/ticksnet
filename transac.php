@@ -17,11 +17,28 @@
         <h3 class="endt">Finaliser le paiement</h3>
     </div>
 
+    <h3 class="resum" style="text-align: center;" >Resume de la commande</h3>
     <div class="resume">
-        <h3 class="resum">Resume de la commande</h3>
+        <br />
         <div class="takes">
-            /* commandes */
+            <img src="images/didib.jpg" alt="alt" class="takimg" />
+            <div class="takinfo">
+                <p class="genretick"> VIP </p>
+                <p class="prodtick"> Didi B </p>
+                <p class="qnttick">Quantité : 2 </p>
+                <p class="pxtick"> 20, 000 FCFA </p>
+            </div>
         </div>
+        <div class="takes">
+            <img src="images/didib.jpg" alt="alt" class="takimg" />
+            <div class="takinfo">
+                <p class="genretick"> Grand Public </p>
+                <p class="prodtick"> Didi B </p>
+                <p class="qnttick">Quantité : 2 </p>
+                <p class="pxtick"> 100, 000 FCFA </p>
+            </div>
+        </div>
+        
     </div>
 
     <h3 class="data">Entrez vos coordonnées  </h3>

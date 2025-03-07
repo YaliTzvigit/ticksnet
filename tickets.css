@@ -82,7 +82,7 @@ html {
 /* body */
 
 .body {
-    background: url(images/concerts.jpg);
+    background: url(images/concert.jpg);
     background-size: cover;
     background-position: center;
     height: 50vh;
@@ -181,25 +181,31 @@ html {
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 15px;
-    width: 97%;
+    justify-content: space-evenly;
+    gap: 5px;
+    width: 90%;
 }
 
 .types {
     position: relative;
     display: inline-block;
+    /* box shadow */
+
+    box-shadow: 0 8px 16px 0 rgba(47, 47, 47, 0.107);
+    transition: 0.3s;
 }
 
 .catick {
-    background-color: #666;
-    color: white;
+    background-color: #cdcccc;
+    color: #555;
     padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
     width: 150px;
     height: 90px;
+    border-radius: 5px;
+
 }
 
 /* dropdown menu */
@@ -230,7 +236,8 @@ html {
   }
 
 .types:hover .catick {
-    background-color: rgb(147, 94, 14);;
+    background-color: rgb(147, 94, 14);
+    color: whitesmoke;
 }
 
 
@@ -484,7 +491,7 @@ html {
 }
 
 .labox {
-    background-color : maroon;
+    background-color : #bb4719;
     padding: 10px;
     display : flex;
     align-items : center;
